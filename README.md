@@ -2,7 +2,7 @@
 
 # Extreme Process Manager: Professional Library Diagnostic Tool
 
-[![Stars](https://img.shields.io/github/stars/MCdiax/Extreme-3.7.3-Desktop)](https://github.com/MCdiax/Extreme-3.7.3-Desktop) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/MCdiax/Extreme-Manager)](https://github.com/MCdiax/Extreme-Manager) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 **Extreme Process Manager** is a specialized system utility designed for advanced library management and process diagnostics. It provides developers and system analysts with a robust environment to monitor, manage, and integrate Dynamic Link Libraries (DLLs) into active processes. Engineered for stability, it ensures seamless interaction between system components during software development and debugging.
 Maintain absolute control over your environment with a lightweight interface, supporting cross-architecture compatibility and advanced memory mapping techniques for technical analysis.
